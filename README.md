@@ -1,9 +1,12 @@
 
 # Application Manager Project
+
 Overview
+
 The Application Manager is a Java-based project designed to manage application processes, including tracking their states, managing notes, and performing state transitions. This system leverages design patterns such as State Pattern and Singleton Pattern to handle application states effectively. The application also provides file I/O capabilities for loading and saving applications, ensuring data persistence.
 
 Features
+
 State Management:
 
 Supports application states: Review, Interview, Waitlist, RefCheck, Offer, and Closed.
